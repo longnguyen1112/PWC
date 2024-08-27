@@ -1,2 +1,2 @@
 # PWC
-PennyWyse Client
+This is readme page for PennyWyse Client project
